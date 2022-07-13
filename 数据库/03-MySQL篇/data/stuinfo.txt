@@ -1,0 +1,7 @@
+20161001	Jack	男	1990-01-01	28	Beijing
+20161002	Wangwu	女	1991-01-03	19	Beijing
+20161003	Lisi	男	1990-11-04	21	Shanghai
+20161004	Ximen	男	1989-08-07	32	\N
+20161005	zhangsan	女	1989-01-02	35	Tianjing
+20161010	Leilei	男	1990-12-05	30	\N
+20161015	Niuer	女	1990-07-06	30	Guangzhou
